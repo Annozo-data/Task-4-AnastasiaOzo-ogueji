@@ -141,6 +141,18 @@ Users can dynamically filter the dashboard by:
 
 ---
 
+## Skills Demonstrated
+
+Data Visualization,
+Data Storytelling,
+Business Intelligence,
+DAX,
+Power Query, and 
+Dashboard Design
+
+
+---
+
 ## Project Outcome
 
 This dashboard provides a clear and interactive view of business performance, helping stakeholders monitor sales trends, evaluate marketing effectiveness, and identify opportunities for revenue growth.
